@@ -1,0 +1,10 @@
+C:\Users\mehme\source\repos\mail_botu\mail_botu\bin\Debug\mail_botu.exe.config
+C:\Users\mehme\source\repos\mail_botu\mail_botu\bin\Debug\mail_botu.exe
+C:\Users\mehme\source\repos\mail_botu\mail_botu\bin\Debug\mail_botu.pdb
+C:\Users\mehme\source\repos\mail_botu\mail_botu\obj\Debug\mail_botu.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\mail_botu\mail_botu\obj\Debug\mail_botu.Form1.resources
+C:\Users\mehme\source\repos\mail_botu\mail_botu\obj\Debug\mail_botu.Properties.Resources.resources
+C:\Users\mehme\source\repos\mail_botu\mail_botu\obj\Debug\mail_botu.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\mail_botu\mail_botu\obj\Debug\mail_botu.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\mail_botu\mail_botu\obj\Debug\mail_botu.exe
+C:\Users\mehme\source\repos\mail_botu\mail_botu\obj\Debug\mail_botu.pdb

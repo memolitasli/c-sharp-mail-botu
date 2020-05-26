@@ -1,0 +1,2 @@
+Mail gönderirken kullandığınız mail adresinin ayarları sekmesinden 3. parti uygulamaların erişimine izin vermeniz gerekmektedir
+yoksa program hata verir ve mailler gönderilemez
